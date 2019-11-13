@@ -24,3 +24,7 @@
 * 12.[Attention and Lexicon Regularized LSTM for Aspcet-based Sentiment Analysis](https://www.aclweb.org/anthology/P19-2035/)</br>
 * 13.[Sentiment Analysis on Naija-Tweets](https://www.aclweb.org/anthology/P19-2047)</br>
 * 14.[Sentiment Classification using Document Embeddings trained with Cosine Similarity](https://www.aclweb.org/anthology/P19-2057)</br>
+
+2019EMNLP 论文整理
+=
+TODO
