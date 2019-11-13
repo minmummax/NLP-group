@@ -10,5 +10,10 @@
 ----
 Sentiment Analysis
 
-1.[Transfer Capsule Network for Aspect Level Sentiment Classification](https://www.aclweb.org/anthology/P19-1052/)</br>
-2.
+*1.[Transfer Capsule Network for Aspect Level Sentiment Classification](https://www.aclweb.org/anthology/P19-1052/)</br>
+*2.[An Interactive Multi-Task Learning Network for End-to-End Aspect-Based Sentiment Analysis](https://arxiv.org/abs/1906.06906)</br>
+*3.[A Multilingual BPE Embedding Space for Universal Sentiment Lexicon Induction](https://www.aclweb.org/anthology/P19-1341/)</br>
+*4.[Towards Fine-grained Text Sentiment Transfer](https://www.aclweb.org/anthology/P19-1194/)</br>
+*5[Aspect Sentiment Classification Towards Question-Answering with Reinforced Bidirectional Attention Network](https://www.aclweb.org/anthology/P19-1345/)</br>
+*6.[Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification](https://www.aclweb.org/anthology/P19-1051/)</br>
+
