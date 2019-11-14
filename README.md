@@ -27,4 +27,6 @@
 
 2019EMNLP 论文整理
 =
+`Sentiment Analysis`
+* 1.[A Challenge Dataset and Effective Models for Aspect-Based Sentiment Analysis](https://www.aclweb.org/anthology/D19-1654.pdf)
 TODO
